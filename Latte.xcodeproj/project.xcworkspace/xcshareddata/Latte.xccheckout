@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9B32DBAF-008E-44C1-8EC4-0FCEED76A939</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Latte</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B6E9D5071A82595E66768FDA6AC7D26069C4372A</key>
+		<string>http://github.com/edwardchor/Latte.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Latte.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B6E9D5071A82595E66768FDA6AC7D26069C4372A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://github.com/edwardchor/Latte.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B6E9D5071A82595E66768FDA6AC7D26069C4372A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B6E9D5071A82595E66768FDA6AC7D26069C4372A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Latte</string>
+		</dict>
+	</array>
+</dict>
+</plist>
