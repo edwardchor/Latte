@@ -7,9 +7,14 @@
 //
 
 #include <iostream>
+#include <caffe.hpp>
+#include <string>
+#include <vector>
+using namespace caffe;
+
 
 int main(int argc, const char * argv[]) {
     // insert code here...
     std::cout << "Hello, World!\n";
-    return 0; 
+    return 0;
 }
