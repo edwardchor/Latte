@@ -7,10 +7,7 @@
 //
 
 #include <iostream>
-#include <caffe.hpp>
-#include <string>
-#include <vector>
-using namespace caffe;
+#include <stdlib.h>
 
 
 int main(int argc, const char * argv[]) {
