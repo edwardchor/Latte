@@ -7,11 +7,16 @@
 //
 
 #include <iostream>
-#include <stdlib.h>
-
+#include <string>
+#include <
+#include <vector>
+using namespace std;
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    for(int count=0;count<5;count++){
+        cout<< count <<endl;
+    }
+
+    cout << "Hello, World!\n";
     return 0;
 }
